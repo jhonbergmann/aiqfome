@@ -25,7 +25,7 @@
 
 ## 🔺 Demo
 
-### [Live Demo, click here](https://aiqfome-jhonatanbergmanns-projects.vercel.app/)
+### [Live Demo, click here](https://aiqfome-jhonatan-bergmann.vercel.app/)
 
 ## 🎨 UI
 
