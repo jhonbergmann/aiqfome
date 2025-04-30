@@ -1,0 +1,13 @@
+const HeartSolidIcon = ({className}: {className?: string}) => (
+  <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="18" height="16" viewBox="0 0 18 16" className={className}>
+    <image
+      id="Camada_1"
+      data-name="Camada 1"
+      width="18"
+      height="16"
+      xlinkHref="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEsAAABDCAYAAADUHfiHAAAEMUlEQVR4nO2cvW7bMBDHL2oLtJP8CM7eId06FEjyBsmmrc0T1N60Jdm8JR472d28xXmCpkD3OED36BHkrUU/ElA5JhR5pKgvOrb4A4wENm2d/joev47cgopEYdwHgAMA2AWAHQDoa37pCgASAPgOAPPZcpQqJarb0BNsYNffUwo9wK6/EGxIlBIWlBYrCmNm0LHBsCLmADCeLUdXBeW0oA2fUagqsGuflrXBWqwGRJLJDMa/GbPlSCnkwIYhel0OypaXyjuqgezPGQAMlA/rsYevcxRNWz2xuh23ZMM12jBUPpUgxUKBGMzIbxiT2mKARh9RTzgKY3btiSMb9k0PjayGKBYz7sIQuJsmRWNFwXbwYfUc2cAC/yH10Fi1DJTiD/TRSFdCAeHFroWCovtWxML4cOHYSE5PMNZWqDvlnfo2kPeviOUgPhTBjLyljJXgIpGhpCY8TubIiRWF8aBG38U1bYgkciC3vo9iCc2z54lj0cNFzzpbUZx6zuQcKBMLx3mfuq6MhgFvHblneaHMZPpwsT4ai3oyfbZwOHGtkePOQauzLrwL1qirsGoOApw40+G96ondQDcO8ij0vVj29KmxoUeDF6sEXqwSeLFK4MUqQWCaoPfkSANqct5DsghwRcNTTMLEuvFCWXETiMvnHiNX2UA5CuNbP+wxksyWo23edfDeZSbTh4t1aSzquRTFmvtWUUuC+uR68F91pTvOoy6iWNOuq6LhURdRrMQLpjAVw5M8kD5VinebnB6ZWEL+pPeuJ6Zyo0dN0RjzOztCStUyKqeUqTnueEbNmHuVmLVMeRbjpMP9rgTvX0EnFmD2cBfR3vcL/s/P3z+y19vXH0SFWX7Se+VbmwvLh/8i3h3ThGPyLNDtPthQFkUbB6gAL3OIWTabnBWY4n1mUFtRwHJ1JzHV4w3hyKZBs10KY6Nuo4uuMUM+q1CEMaVI2MPDmWxYSuWUqjW6amgTs0SOMHZtQgLcXBZKJxKnyoo0uXtrzVhQHlVEFbGo3VvrxKJoq5wOY8wSIeKXi72ITWMUqqgalo1ZItzDbAX7iyOGVeWpKkIViSNTN4uGC2YzB8YezK8WtrzZMDV5lC11PIuTCsGyqFvxBgD+4UNy5WFk96AKtQwm4tgAN0zZ4GJDwhAHxyRlq2ETniVyjrGB3AkqsdXiBks+1suttJcVR6ZRIwVP66Ngti1lk162QKGUsd6zEksmCuMy50Ewwf6jTdyusvYZz2eoK1bT1VBmiOe/TCyrJZ+M/AMAr5QSelqpdjIuEnDZGGzbdmSPlBGK/37rmUCuspX5kz9scJmtjd804qw3LR3ZMqk5c8FnDHIiNV3tZFaRB889Yp9qsQpI8HvOvElk5fsJozA+wbOwTA1Aimduket5rngWmy/xTAk2VGJ7kcW+GeszsfyoaZMnulUCAO4B1Q8FM6EaTXYAAAAASUVORK5CYII="
+    />
+  </svg>
+)
+
+export default HeartSolidIcon
