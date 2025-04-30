@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="w-screen min-w-[320px] bg-neutrals-200 py-6 text-center text-xs text-gray-500">
+    <footer className="w-full min-w-[320px] bg-neutrals-200 py-6 text-center text-xs text-gray-500">
       <span className="mb-2 flex items-center justify-center gap-1 text-sm font-bold text-primary">
         feito com <span>💜</span> em maringá-PR
       </span>
